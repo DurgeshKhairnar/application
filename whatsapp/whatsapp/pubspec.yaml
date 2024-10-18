@@ -1,0 +1,35 @@
+name: demo
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.0-323.2.beta
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/2.jpg
+    - assets/1.jpg
+    - assets/3.jpg
+    - assets/3d-rendering-computer-desk.jpg
+    - assets/beautiful-young-woman-home-office-working-from-home-teleworking-concept_144627-46785.jpg
+    - assets/4.jpg
+    - assets/6.jpg
+    - assets/7.jpg
+    - assets/8.jpg
+    - assets/add-group.png
+    - assets/add.png
+    - assets/user-group.png
+    - assets/user.png
+    
